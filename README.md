@@ -7,5 +7,6 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/adexonnn/priceupdater.git
+git clone https://github.com/adexonnn/TON-Price-Updater.git
+
 
