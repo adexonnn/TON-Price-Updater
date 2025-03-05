@@ -1,10 +1,10 @@
 # Price Updater
 
-Бот получает информацию о токенах через API и отправляет ее в Telegram-канал.
+The bot updates the price every minute and sends it to your Telegram
 
-## Установка
+## Installation
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/adexonnn/TON-Price-Updater.git
