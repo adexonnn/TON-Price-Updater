@@ -7,6 +7,6 @@ The bot updates the price every minute and sends it to your Telegram
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/adexonnn/TON-Price-Updater.git
+git clone https://github.com/adexonnn/jettonpu.git
 
 
